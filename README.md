@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋, I am Surohita Snigdha Satrasala
 
-<!--
-**surohitasnigdha1/surohitasnigdha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate third-year engineering student with a solid foundation in front-end web development and databases, and a growing expertise in AI/LLM systems. I've recently been diving deep into projects involving LangChain, Retrieval-Augmented Generation (RAG), and AI-powered campus assistant bots—exploring both WhatsApp bot integrations and Streamlit web UIs.
 
-Here are some ideas to get you started:
+⚙️ I'm actively building practical, real-world AI tools and participating in hackathons (🏆 including a recent hackathon win!) to sharpen my skills and solve problems that matter. I'm also a mentee in the Codess Cafe Mentorship Program, where I'm continuously growing through community and guidance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring:
+
+🤖 LLMs & agent-based systems
+
+🧠 LangChain, Retrieval pipelines
+
+📌 Always learning. Always building. Always caffeinated ☕.
