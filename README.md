@@ -11,3 +11,5 @@ Currently exploring:
 🧠 LangChain, Retrieval pipelines
 
 📌 Always learning. Always building. Always caffeinated ☕.
+
+satrasalasurohitasnigdha@gmail.com
