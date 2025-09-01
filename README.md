@@ -10,6 +10,4 @@ Currently exploring:
 
 🧠 LangChain, Retrieval pipelines
 
-📌Strong in my ABC's: Always #ACTIVE,BUILDING,CAFFEINATED ☕.
-
 satrasalasurohitasnigdha@gmail.com
